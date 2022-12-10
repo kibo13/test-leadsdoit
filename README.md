@@ -1,4 +1,4 @@
-## Quick Start
+## Weather Microservice
 
 ```bash
 # download project
@@ -23,4 +23,11 @@ DB_PASSWORD=database_password
 
 # run migrations 
 php artisan migrate
+
+# open-weather 
+OPENWEATHER_API_KEY=9876587a8f81e7f488b895f3f021f016
+OPENWEATHER_CITY=Almaty
+
+# x-token
+X_TOKEN=iQUevEDhofIvP4QGomAFL0kSoHR6VlTn
 ```
